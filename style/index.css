@@ -86,6 +86,9 @@ button {
   font-weight: 500;
   z-index: 2;
 }
+.nav-link li {
+  cursor: pointer;
+}
 .sec-1 {
   background-image: url(../images/bg-intro-mobile.svg);
   background-size: 100% 360px;
